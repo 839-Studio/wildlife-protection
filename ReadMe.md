@@ -6,6 +6,6 @@ We compared the data from the List of Wild Animals under State Priority Conserva
 
 If you have any questions, please contact zoumy@thepaper.cn. Enjoy! :)
 
-Original pdf file are listed below:
+Original pdf files are listed below:
 1. [《国家野生动物保护名录》](https://www.unodc.org/res/cld/document/directory-of-the-peoples-republic-of-china-on-special-state-protection-of-wildlife_html/Directory_of_the_Peoples_Republic_of_China_on_Special_State_Protection_of_Wildlife.pdf)
 2. [《中国脊椎动物红色名录》](http://www.biodiversity-science.net/CN/10.17520/biods.2016076)
